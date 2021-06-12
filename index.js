@@ -37,12 +37,10 @@ function requestUserRepos(username){
     
         // Parse API data into JSON
         const data = JSON.parse(this.response);
-
-        const li = document.createElement('li');
         
         // Loop over each object in data array
         for (let i in data) {
-            
+
             //Condition to sort by size (descending)
             data.sort(function (a, b) {
                 return a.size > b.size ? -1 : 1});
