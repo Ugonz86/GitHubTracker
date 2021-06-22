@@ -21,7 +21,7 @@
 
 _No bugs at the moment._
 
-# Github Link
+# GitHub Pages Link (DEMO)
 * _https://ugonz86.github.io/GitHubTracker/_
 
 ## Support and contact details
