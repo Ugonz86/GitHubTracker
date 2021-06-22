@@ -1,11 +1,11 @@
 # GitHub Repo Tracker
 
-#### _JavaScript, jQuery and API's practice. This webapp displays GitHub data dynamically to the front-end._
+#### _JavaScript, jQuery and API's practice. This a web application that makes a request to the GitHub API and displays dynamic data to users on the front-end inside the browser._
 
 #### By _**Uriel Gonzalez**_
 
 ## Specs
-* _User inputs their GitHub username and the program returns their starred repo list in descending size order with some additional information._
+* _User inputs their GitHub username and the program returns 30 repos in descending size order with some additional information._
 
 
 ## Setup/Installation Requirements
